@@ -23,9 +23,5 @@ public class DeptProviderHystrix_8001 {
         SpringApplication.run(DeptProviderHystrix_8001.class, args);
     }
 
-//    @PostConstruct
-//    public void init() {
-//        System.out.println("Datasource Username: " + environment.getProperty("spring.datasource.username"));
-//    }
 
 }
